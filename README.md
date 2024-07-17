@@ -78,20 +78,6 @@
 - 支持保存到csv中（data/目录下）
 - 支持保存到json中（data/目录下）
 
-## 打赏
-
-如果觉得项目不错的话可以打赏哦。您的支持就是我最大的动力！
-
-打赏时您可以备注名称，我会将您添加至打赏列表中。
-<p>
-  <img alt="打赏-微信" src="static/images/wechat_pay.jpeg" style="width: 200px;margin-right: 140px;" />
-  <img alt="打赏-支付宝" src="static/images/zfb_pay.jpeg" style="width: 200px" />
-</p>
-
-
-| 捐赠者         | 捐赠金额  | 捐赠日期       |
-|-------------|-------|------------|
-| Tsen Ming   | 100 元 | 2024-03-18 |
 
 
 ## 运行报错常见问题Q&A
@@ -105,15 +91,6 @@
 
 ## 手机号登录说明
 ➡️➡️➡️ [手机号登录说明](docs/手机号登录说明.md)
-
-
-
-## star 趋势图
-- 如果该项目对你有帮助，star一下 ❤️❤️❤️
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
-
-
 
 
 ## 参考
